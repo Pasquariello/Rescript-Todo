@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" , "src/pages" , "src/components" ] , "pkgs" : [ [ "@rescript/react" , "/Users/taylorpasquariello/projects/my-rescript-app/node_modules/@rescript/react" ] ] , "generated" : [] }

@@ -1,0 +1,14 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/Users/taylorpasquariello/projects/my-rescript-app/node_modules/bs-platform/darwin/bsc.exe -as-ppx -bs-jsx 3'
+S /Users/taylorpasquariello/projects/my-rescript-app/node_modules/bs-platform/lib/ocaml
+B /Users/taylorpasquariello/projects/my-rescript-app/node_modules/bs-platform/lib/ocaml
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S /Users/taylorpasquariello/projects/my-rescript-app/node_modules/@rescript/react/lib/ocaml
+B /Users/taylorpasquariello/projects/my-rescript-app/node_modules/@rescript/react/lib/ocaml
+S src
+B lib/bs/src
+S src/pages
+B lib/bs/src/pages
+S src/components
+B lib/bs/src/components
+####BSB GENERATED: NO EDIT}
